@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\DataTrainingController;
+use App\Http\Controllers\DataUjiController;
 use Illuminate\Support\Facades\Route;
 
 /*
