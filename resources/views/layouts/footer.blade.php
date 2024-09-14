@@ -1,6 +1,5 @@
 <!-- Main Footer -->
 <footer class="main-footer">
-    <strong>https://github.com/vincentmikhael</strong>
 </footer>
 <!-- ./wrapper -->
 
